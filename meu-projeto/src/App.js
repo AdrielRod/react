@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <SayMyName nome="Adriel" />
+      <Pessoa nome="adriel"/>
     </div>
   );
 }
